@@ -48,7 +48,7 @@ My current research interests primarily focus on:
 
   
 # 🎖 Honors and Awards
-*   *2023* Academic Scholarship, School of Computer Science, USTC
+*   *2023, 2024* Academic Scholarship, School of Computer Science, USTC
 *   *2023* Outstanding Graduate, SDU
 *   *2022* National Scholarship, Ministry of Education, China
 *   *2020, 2021* National Encouragement scholarship, Ministry of Education, China
