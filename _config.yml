@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhiyuan Ma"
   avatar           : "images/picture.jpg"
-  bio              : "Love yourself!"
+  bio              : "Love yourself."
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
