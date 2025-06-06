@@ -23,9 +23,6 @@ My current research interests primarily focus on:
 *   **LLM with reasoning**: enhancing LLMs' capabilities to solve real-world tasks (e.g., mathematical reasoning) by leveraging knowledge in a human-like manner.
 *   **LLM with tool learning**: Enhancing LLMs' problem-solving capabilities through building agents to utilize external tools or automatically create reusable tools.
 
-# 📖 Educations
-*   *2019.09 - 2023.06*, Undergraduate, Computer Science and Technology, Shandong University.
-*   *2023.09 - Present*, Master, Computer Science and Technology, University of Science and Technology of China.
 
 # 🔥 News
 *   *2025.05*: 🎉 Our **Tool-MVR** about tool learning has been accepted by [**SIGKDD 2025**](https://arxiv.org/abs/2506.04625)！
@@ -42,10 +39,6 @@ My current research interests primarily focus on:
 *   A Unified M-Tree Self-Correction Solver For Math Word Problems, **Zhiyuan Ma***, Jiayu Liu, Zhenya Huang*, Accepted by **_JUSTC_** 2024.
 *   [Guiding Mathematical Reasoning via Mastering Commonsense Formula Knowledge](https://dl.acm.org/doi/abs/10.1145/3580305.3599375), Jiayu Liu, Zhenya Huang*, **Zhiyuan Ma**, Qi Liu, Enhong Chen, Tianhuang Su, Haifeng Liu, Accepted by **_SIGKDD_** 2023.
 
-# 💬 Invited Talks
-*   *2025.03*, [AAAI 2025 Main Conference Oral](https://underline.io/events/473/sessions?eventSessionId=19268&searchGroup=lecture), Philadelphia, Pennsylvania. ([Video](https://us06web.zoom.us/rec/play/rjzBqXo7LbZIGjRAlt1uasnQCwpta8cibEDzYaR6r0qj_ZGW4ufBz4yWthUp5EmLq587xrC8bHhvMo0b.R8RcikKAaCShZFga?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2F4DNsf9GEQvlbLqPcJmhEXaVisRAvyUZn-POdJBGF_IA2kijzEbX0i2RXNTCuc3_x.liqjI5m_6TPXrNCV))
-*   *2024.07*, [ICML 2024 AI for Math Workshop](https://sites.google.com/view/ai4mathworkshopicml2024/challenges), Vienna, Austria. ([Video](https://icml.cc/virtual/2024/workshop/29948))
-
 # 🏆 Competitions
 *   *2024.12* 1st Prize (1/1008), [Baidu Search · NVIDIA · Tool-Calling Agent Competition](https://agents.baidu.com/activity/center).
 *   *2024.07* 1st Prize (1/172), Track 1-1: Autoformalization, [ICML 2024 Challenges on Automated Math Reasoning](https://sites.google.com/view/ai4mathworkshopicml2024/challenges).
@@ -53,10 +46,7 @@ My current research interests primarily focus on:
 *   *2024.02* 1st Prize (1/120), Track 2, [AAAI 2024 Global Competition on Math Problem Solving and Reasoning](https://ai4ed.cc/competitions/aaai2024competition).
 *   *2024.02* 2nd Prize (2/58), Track 1, [AAAI 2024 Global Competition on Math Problem Solving and Reasoning](https://ai4ed.cc/competitions/aaai2024competition).
 
-
-# 💻 Internships
-*   *2025.05 - Present*, [Meituan Beidou Program Intern (LLM Agent for Business)](https://zhaopin.meituan.com/web/beidou), China.
-
+  
 # 🎖 Honors and Awards
 *   *2023* Academic Scholarship, School of Computer Science, USTC
 *   *2023* Outstanding Graduate, SDU
@@ -66,3 +56,20 @@ My current research interests primarily focus on:
 *   *2022* Huawei Scholarship
 *   *2022* Baosteel Scholarship
 *   *2020, 2021, 2022* Academic Scholarship, School of Computer Science, SDU
+
+# 📖 Educations
+*   *2019.09 - 2023.06*, Undergraduate, Computer Science and Technology, Shandong University.
+*   *2023.09 - Present*, Master, Computer Science and Technology, University of Science and Technology of China.
+
+
+# 💬 Invited Talks
+*   *2025.03*, [AAAI 2025 Main Conference Oral](https://underline.io/events/473/sessions?eventSessionId=19268&searchGroup=lecture), Philadelphia, Pennsylvania. ([Video](https://us06web.zoom.us/rec/play/rjzBqXo7LbZIGjRAlt1uasnQCwpta8cibEDzYaR6r0qj_ZGW4ufBz4yWthUp5EmLq587xrC8bHhvMo0b.R8RcikKAaCShZFga?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2F4DNsf9GEQvlbLqPcJmhEXaVisRAvyUZn-POdJBGF_IA2kijzEbX0i2RXNTCuc3_x.liqjI5m_6TPXrNCV))
+*   *2024.07*, [ICML 2024 AI for Math Workshop](https://sites.google.com/view/ai4mathworkshopicml2024/challenges), Vienna, Austria. ([Video](https://icml.cc/virtual/2024/workshop/29948))
+
+
+
+
+# 💻 Internships
+*   *2025.05 - Present*, [Meituan Beidou Program Intern (LLM Agent for Business)](https://zhaopin.meituan.com/web/beidou), China.
+
+
