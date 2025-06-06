@@ -33,7 +33,6 @@ My current research interests primarily focus on:
 
 
 # 📝 Publications 
-* indicates corresponding author
 *   [Advancing Tool-Augmented Large Language Models via Meta-Verification and Reflection Learning](https://arxiv.org/abs/2506.04625), **Zhiyuan Ma**, Jiayu Liu, Xianzhen Luo, Zhenya Huang*, Qingfu Zhu, Wanxiang Che, Accepted by **_SIGKDD_** 2025.
 *   [Knowledge-Centered Dual-Process Reasoning for Math Word Problems With Large Language Models](https://ieeexplore.ieee.org/abstract/document/10946242/), Jiayu Liu, Zhenya Huang, Qi Liu, **Zhiyuan Ma**, Chengxiang Zhai, Enhong Chen*, **_IEEE Transactions on Knowledge and Data Engineering (TKDE)_**, 2025.
 *   [Automated Creation of Reusable and Diverse Toolsets for Enhancing LLM Reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/34664), **Zhiyuan Ma**, Zhenya Huang*, Jiayu Liu, Minmao Wang, Hongke Zhao, Xin Li, Published by **_AAAI_** 2025.
