@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master at [the School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), and a member of the [State Key Laboratory of Cognitive Intelligence](https://bigdata.ustc.edu.cn/). Before that, I received my bachelor's degree in Computer Science from [Shandong University (SDU)](https://www.sdu.edu.cn/) in June 2023.
+I am a Master student at [the School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), and a member of the [State Key Laboratory of Cognitive Intelligence](https://cogskl.iflytek.com/). Before that, I received my bachelor's degree in Computer Science from [Shandong University (SDU)](https://www.sdu.edu.cn/) in June 2023.
 
 My current research interests primarily focus on:
 *   **LLM with reasoning**: enhancing LLMs' capabilities to solve real-world tasks (e.g., mathematical reasoning) by leveraging knowledge in a human-like manner.
