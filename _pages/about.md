@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Zhiyuan Ma"
+excerpt: "Master at USTC, Researching LLMs"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,42 +17,35 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Master at [the School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), and a member of the [State Key Laboratory of Cognitive Intelligence](https://bigdata.ustc.edu.cn/). Before that, I received my bachelor's degree in Computer Science from [Shandong University (SDU)](https://www.sdu.edu.cn/) in June 2023.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+My current research interests primarily focus on:
+*   **LLM with reasoning**: enhancing LLMs' capabilities to solve real-world tasks (e.g., mathematical reasoning) by leveraging knowledge in a human-like manner.
+*   **LLM with tool learning**: Enhancing LLMs' problem-solving capabilities through building agents to utilize external tools or automatically create reusable tools.
 
 # 📝 Publications 
+* indicates corresponding author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+*   A Unified M-Tree Self-Correction Solver For Math Word Problems, **Zhiyuan Ma***, Jiayu Liu, Zhenya Huang*, Accepted by **_JUSTC_** 2024.
+*   [Guiding Mathematical Reasoning via Mastering Commonsense Formula Knowledge](https://dl.acm.org/doi/abs/10.1145/3580305.3599375), Jiayu Liu, Zhenya Huang*, **Zhiyuan Ma**, Qi Liu, Enhong Chen, Tianhuang Su, Haifeng Liu, Accepted by **_SIGKDD_** 2023.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors and Awards (Selected)
+*   *2023* Academic Scholarship, School of Computer Science, USTC
+*   *2023* Outstanding Graduate, SDU
+*   *2022* National Scholarship, Ministry of Education, China
+*   *2020, 2021* National Encouragement scholarship, Ministry of Education, China
+*   *2023* Merit Student, SDU
+*   *2022* Huawei Scholarship
+*   *2022* Baosteel Scholarship
+*   *2020, 2021, 2022* Academic Scholarship, School of Computer Science, SDU
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*   *2019.09 - 2023.06*, Undergraduate, Computer Science and Technology, Shandong University.
+*   *2023.09 - Present*, Master, Computer Science and Technology, University of Science and Technology of China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🏆 Competitions (Selected)
+*   *2024.02* 1st Prize, Track 2, [AAAI 2024 Global Competition on Math Problem Solving and Reasoning](https://ai4ed.cc/competitions/aaai2024competition).
+*   *2024.02* 2nd Prize, Track 1, [AAAI 2024 Global Competition on Math Problem Solving and Reasoning](https://ai4ed.cc/competitions/aaai2024competition).
+*   *2024.07* 1st Prize, Track 1-1: Autoformalization, [ICML 2024 Challenges on Automated Math Reasoning](https://sites.google.com/view/ai4mathworkshopicml2024/challenges).
+*   *2024.07* 1st Prize, Track 1-2: Auto-Informalization, [ICML 2024 Challenges on Automated Math Reasoning](https://sites.google.com/view/ai4mathworkshopicml2024/challenges).
