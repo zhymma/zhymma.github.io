@@ -34,10 +34,13 @@ My current research interests primarily focus on:
 
 # 📝 Publications 
 * indicates corresponding author
-*   [Advancing Tool-Augmented Large Language Models via Meta-Verification and Reflection Learning](https://arxiv.org/abs/2506.04625), **Zhiyuan Ma**, Jiayu Liu, Xianzhen Luo, Zhenya Huang, Qingfu Zhu, Wanxiang Che, Accepted by **_SIGKDD_** 2025.
+*   [Advancing Tool-Augmented Large Language Models via Meta-Verification and Reflection Learning](https://arxiv.org/abs/2506.04625), **Zhiyuan Ma**, Jiayu Liu, Xianzhen Luo, Zhenya Huang*, Qingfu Zhu, Wanxiang Che, Accepted by **_SIGKDD_** 2025.
+*   [Knowledge-Centered Dual-Process Reasoning for Math Word Problems With Large Language Models](https://ieeexplore.ieee.org/abstract/document/10946242/), Jiayu Liu, Zhenya Huang, Qi Liu, **Zhiyuan Ma**, Chengxiang Zhai, Enhong Chen*, **_IEEE Transactions on Knowledge and Data Engineering (TKDE)_**, 2025.
 *   [Automated Creation of Reusable and Diverse Toolsets for Enhancing LLM Reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/34664), **Zhiyuan Ma**, Zhenya Huang*, Jiayu Liu, Minmao Wang, Hongke Zhao, Xin Li, Published by **_AAAI_** 2025.
-*   A Unified M-Tree Self-Correction Solver For Math Word Problems, **Zhiyuan Ma***, Jiayu Liu, Zhenya Huang*, Accepted by **_JUSTC_** 2024.
-*   [Guiding Mathematical Reasoning via Mastering Commonsense Formula Knowledge](https://dl.acm.org/doi/abs/10.1145/3580305.3599375), Jiayu Liu, Zhenya Huang*, **Zhiyuan Ma**, Qi Liu, Enhong Chen, Tianhuang Su, Haifeng Liu, Accepted by **_SIGKDD_** 2023.
+*   [A Diffusion-Based Cognitive Diagnosis Framework for Robust Learner Assessment](https://ieeexplore.ieee.org/abstract/document/10745736), Guanhao Zhao, Zhenya Huang*, Yan Zhuang, Haoyang Bi, Yiyan Wang, Fei Wang, **Zhiyuan Ma**, Yixia Zhao, **_IEEE Transactions on Learning Technologies (TLT)_**, 2024.
+*   A Unified M-Tree Self-Correction Solver For Math Word Problems, **Zhiyuan Ma**, Jiayu Liu, Zhenya Huang*, Accepted by **_JUSTC_** 2024.
+
+*   [Guiding Mathematical Reasoning via Mastering Commonsense Formula Knowledge](https://dl.acm.org/doi/abs/10.1145/3580305.3599375), Jiayu Liu, Zhenya Huang, **Zhiyuan Ma**, Qi Liu, Enhong Chen*, Tianhuang Su, Haifeng Liu, Accepted by **_SIGKDD_** 2023.
 
 # 🏆 Competitions
 *   *2024.12* 1st Prize (1/1008), [Baidu Search · NVIDIA · Tool-Calling Agent Competition](https://agents.baidu.com/activity/center).
@@ -71,5 +74,3 @@ My current research interests primarily focus on:
 
 # 💻 Internships
 *   *2025.05 - Present*, [Meituan Beidou Program Intern (LLM Agent for Business)](https://zhaopin.meituan.com/web/beidou), China.
-
-
