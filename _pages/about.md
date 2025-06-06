@@ -30,9 +30,9 @@ My current research interests primarily focus on:
 # 🔥 News
 *   *2025.05*: 🎉 Our **Tool-MVR** about tool learning has been accepted by [**SIGKDD 2025**](https://arxiv.org/abs/2506.04625)！
 *   *2024.12*: 🎉 Our **KTCE** about tool creation and reasoning has been accepted by [**AAAI 2025**](https://ojs.aaai.org/index.php/AAAI/article/view/34664)！
-*   *2024.12*: 🎉 We won **the championship** in the Tool-calling Agent Competition co-hosted by Baidu and NVIDIA!  [Report](https://mp.weixin.qq.com/s?__biz=Mzk0MzU4NjkwNA==&mid=2247487701&idx=2&sn=c1f36e2327047bf934c2bab62a552799&chksm=c330fbe2f44772f4da58027f1f4527ef54b1b9b186ea3725e2a81da1940fd21001217737642b&cur_album_id=3876529198415953932&scene=189#wechat_redirect)
-*   *2024.07*: 🎉 We won **two championships** in the ICML 2024 Automated Mathematical Reasoning Competition!  [Report1](https://joltml.com/icml-2024/) and [Report2](https://mp.weixin.qq.com/s/qyy1NAnqGR_OE8skMrm6iA)
-*   *2024.03*: 🎉 We won **a championship and a runner-up** in the AAAI 2024 Math Problem Solving Competition!  [Report1](https://cogskl.iflytek.com/archives/3026) and [Report2](https://mp.weixin.qq.com/s/aj-aWZMTACFhVnc51IexFg)
+*   *2024.12*: 🎉 We won **the championship** in the Tool-calling Agent Competition co-hosted by Baidu and NVIDIA!  [[Report]](https://mp.weixin.qq.com/s?__biz=Mzk0MzU4NjkwNA==&mid=2247487701&idx=2&sn=c1f36e2327047bf934c2bab62a552799&chksm=c330fbe2f44772f4da58027f1f4527ef54b1b9b186ea3725e2a81da1940fd21001217737642b&cur_album_id=3876529198415953932&scene=189#wechat_redirect)
+*   *2024.07*: 🎉 We won **two championships** in the ICML 2024 Automated Mathematical Reasoning Competition!  [[Report1]](https://joltml.com/icml-2024/) and [[Report2]](https://mp.weixin.qq.com/s/qyy1NAnqGR_OE8skMrm6iA)
+*   *2024.03*: 🎉 We won **a championship and a runner-up** in the AAAI 2024 Math Problem Solving Competition!  [[Report1]](https://cogskl.iflytek.com/archives/3026) and [[Report2]](https://mp.weixin.qq.com/s/aj-aWZMTACFhVnc51IexFg)
 
 
 # 📝 Publications 
@@ -43,8 +43,8 @@ My current research interests primarily focus on:
 *   [Guiding Mathematical Reasoning via Mastering Commonsense Formula Knowledge](https://dl.acm.org/doi/abs/10.1145/3580305.3599375), Jiayu Liu, Zhenya Huang*, **Zhiyuan Ma**, Qi Liu, Enhong Chen, Tianhuang Su, Haifeng Liu, Accepted by **_SIGKDD_** 2023.
 
 # 💬 Invited Talks
-*   *2025.03*, [AAAI 2025 Main Conference Oral](https://underline.io/events/473/sessions?eventSessionId=19268&searchGroup=lecture), Philadelphia, Pennsylvania.  [Video](https://us06web.zoom.us/rec/play/rjzBqXo7LbZIGjRAlt1uasnQCwpta8cibEDzYaR6r0qj_ZGW4ufBz4yWthUp5EmLq587xrC8bHhvMo0b.R8RcikKAaCShZFga?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2F4DNsf9GEQvlbLqPcJmhEXaVisRAvyUZn-POdJBGF_IA2kijzEbX0i2RXNTCuc3_x.liqjI5m_6TPXrNCV)
-*   *2024.07*, [ICML 2024 AI for Math Workshop](https://sites.google.com/view/ai4mathworkshopicml2024/challenges), Vienna, Austria.  [Video](https://icml.cc/virtual/2024/workshop/29948)
+*   *2025.03*, [AAAI 2025 Main Conference Oral](https://underline.io/events/473/sessions?eventSessionId=19268&searchGroup=lecture), Philadelphia, Pennsylvania.  [[Video]](https://us06web.zoom.us/rec/play/rjzBqXo7LbZIGjRAlt1uasnQCwpta8cibEDzYaR6r0qj_ZGW4ufBz4yWthUp5EmLq587xrC8bHhvMo0b.R8RcikKAaCShZFga?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2F4DNsf9GEQvlbLqPcJmhEXaVisRAvyUZn-POdJBGF_IA2kijzEbX0i2RXNTCuc3_x.liqjI5m_6TPXrNCV)
+*   *2024.07*, [ICML 2024 AI for Math Workshop](https://sites.google.com/view/ai4mathworkshopicml2024/challenges), Vienna, Austria.  [[Video]](https://icml.cc/virtual/2024/workshop/29948)
 
 # 🏆 Competitions (Selected)
 *   *2024.02* 1st Prize (1/120), Track 2, [AAAI 2024 Global Competition on Math Problem Solving and Reasoning](https://ai4ed.cc/competitions/aaai2024competition).
@@ -56,7 +56,7 @@ My current research interests primarily focus on:
 # 💻 Internships
 *   *2025.05 - Present*, [Meituan Beidou Program Intern (LLM Agent for Business)](https://zhaopin.meituan.com/web/beidou), China.
 
-# 🎖 Honors and Awards (Selected)
+# 🎖 Honors and Awards
 *   *2023* Academic Scholarship, School of Computer Science, USTC
 *   *2023* Outstanding Graduate, SDU
 *   *2022* National Scholarship, Ministry of Education, China
